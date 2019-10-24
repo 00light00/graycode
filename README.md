@@ -10,7 +10,7 @@
 - Each entry in $G_n$ differs by only one bit from the previous entry. (The Hamming distance is 1.)
 - The last entry in $G_n$ differs by only one bit from the first entry. (The code is cyclic.)
 
-the *$n$*th Gray code is obtained by computing ${\displaystyle n\oplus \lfloor n/2\rfloor }$![n\oplus \lfloor n/2\rfloor ](Gray Code.assets/b8d7e72fe7aaf0d950664d608462fc98bcc03230.svg)
+the *$n$*th Gray code is obtained by computing ${\displaystyle n\oplus \lfloor n/2\rfloor }$
 
 ## 二进制->格雷码
 
