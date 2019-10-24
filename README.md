@@ -48,7 +48,7 @@ unsigned int GrayToBinary(unsigned int num)
 
 
 
-![4bit gray code](Gray Code.assets/250px-Gray_code_permutation_matrix_16.svg.png)
+![4bit gray code](README.assets/250px-Gray_code_permutation_matrix_16.svg.png)
 
 
 
